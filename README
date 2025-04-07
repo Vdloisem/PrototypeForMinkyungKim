@@ -28,6 +28,16 @@ Once opened:
 
 ---
 
+## ⚠️ Troubleshooting: Can't start the runtime?
+
+If the Colab runtime doesn't start properly or if resources are limited:
+
+- You can still **copy the code from each cell** in the notebook.
+- Then, **paste it into your own new Colab notebook** via [https://colab.research.google.com](https://colab.research.google.com).
+- This will let you run everything independently.
+
+---
+
 ## 📦 Required Python Libraries
 
 The notebook installs all required libraries automatically via `pip`. These include:
