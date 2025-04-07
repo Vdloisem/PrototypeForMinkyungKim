@@ -24,8 +24,7 @@ You can open the notebook in Google Colab using the following link:
 👉 [Open in Colab](https://colab.research.google.com/drive/1LAN2SHFxU2Txqc-3RwKYETgaODlcjqyN?usp=sharing)
 
 Once opened:
-1. Go to `Runtime > Change runtime type` and (optionally) select **GPU**.
-2. Click `Runtime > Run all` to execute all cells.
+1. Click `Runtime > Run all` to execute all cells.
 
 ---
 
