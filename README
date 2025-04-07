@@ -15,8 +15,6 @@ The notebook includes:
 
 It uses the **MRPC dataset** from the GLUE benchmark for experimentation.
 
----
-
 ## ▶️ Run on Google Colab
 
 You can open the notebook in Google Colab using the following link:
@@ -33,7 +31,7 @@ Once opened:
 If the Colab runtime doesn't start properly or if resources are limited:
 
 - You can still **copy the code from each cell** in the notebook.
-- Then, **paste it into your own new Colab notebook** via (https://colab.research.google.com).
+- Then, **paste it into your own new Colab notebook** via [https://colab.research.google.com](https://colab.research.google.com).
 - This will let you run everything independently.
 
 ---
